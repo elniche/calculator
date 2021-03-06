@@ -1,0 +1,13 @@
+.erase {
+    background-color: blue;
+    color: white;
+    display: flex;
+    width:120%;
+    justify-content: center;
+    align-items: center;
+    height: 4em;
+    outline: 1px solid blue;
+    flex:1;
+    padding:5px;
+    cursor: pointer;
+}
